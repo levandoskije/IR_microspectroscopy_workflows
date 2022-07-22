@@ -4,7 +4,7 @@ In this repository you find [Orange](https://orangedatamining.com) workflows for
 
 ## Guidelines for downloading and oppening workflows:
 
-1. Go to [AINDA PRECISA DE UM LINK](COLOCAR_O_LINK_AQUI)
+1. Go to [IMBUIA - IR_microspectroscopy_workflows](https://github.com/raul-freitas/IR_microspectroscopy_workflows)
 2. Click on **Code** and then **Download ZIP**. This can take some time...
 3. You should get the following files structure:
 
